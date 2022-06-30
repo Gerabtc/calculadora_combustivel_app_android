@@ -48,7 +48,7 @@
 <h3 id="-layout" align="left"> 🎨 Layout </h3>  
 <p align="left"> O layout da aplicação está disponível no Figma: </p>
 
-<a href="">
+<a href="https://www.figma.com/file/jYnfzYsd3N1Ga2B39CJQJU/calculadora_de_combustivel_gasolina_x_alcool?node-id=0%3A1">
   <img align="left" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
