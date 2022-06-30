@@ -121,7 +121,7 @@ Crie um dispositivo virtual (device manager) no android studio para poder rodar 
 <h3 id="-autor" align="left"> 🦸 Autor </h3>
 
 <div align="left">
-<img style="border-radius: 50%" src="" width="100px" />
+<img style="border-radius: 50%" src="https://user-images.githubusercontent.com/86272763/176719855-c7b0e601-e7e8-4583-af7e-eff821621d3c.jpeg" width="100px" />
 <br><sub>  Gerardus Rocha. </sub>
 
  <sub> <a href="https://www.youtube.com/c/GeraProfissaoTrader" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> </sub>
