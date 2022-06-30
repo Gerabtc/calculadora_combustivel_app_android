@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/86272763/171529569-dbd5cb80-5996-4381-9046-82ad0bfcd1c3.png" width="200px" />
+<img src="https://user-images.githubusercontent.com/86272763/176718652-dd0ed945-eaa9-4f7b-8a10-c2907d539575.jpg" width="200px" />
 
 
 <h1 align="center">Calculadora de Combustivel App Android</h1>
@@ -40,6 +40,7 @@
 <li>[x] Calcular qual a melhor relação de preços do combustível utilizar:</li>
 <li>[ ] Encontrar o posto mais próximo</li>
 <blockquote><li>[ ] Selecionar o destino do posto</li></blockquote>
+<li>[ ] Implantar o banco de dados SQLite</li>
 </ul>
 	
 ---
