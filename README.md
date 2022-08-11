@@ -6,10 +6,10 @@
 
 <h2 align="center">📱 Android </h2>
   
-<a href="https://github.com/Gerabtc/calculadora_combustivel_app_android/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Gerabtc/movefast-crud-android"></a>
-<a href="https://github.com/Gerabtc/calculadora_combustivel_app_android/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Gerabtc/movefast-crud-android"></a>
-<a href="https://github.com/Gerabtc/calculadora_combustivel_app_android/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Gerabtc/movefast-crud-android"></a>
-<a href="https://github.com/Gerabtc/calculadora_combustivel_app_android/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Gerabtc/movefast-crud-android"></a>
+<a href="https://github.com/Gerabtc/calculadora_combustivel_app_android/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Gerabtc/calculadora_combustivel_app_android"></a>
+<a href="https://github.com/Gerabtc/calculadora_combustivel_app_android/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Gerabtc/calculadora_combustivel_app_android"></a>
+<a href="https://github.com/Gerabtc/calculadora_combustivel_app_android/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Gerabtc/calculadora_combustivel_app_android"></a>
+<a href="https://github.com/Gerabtc/calculadora_combustivel_app_android/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Gerabtc/calculadora_combustivel_app_android"></a>
 <br>
 
 <h4 align="center"> 
@@ -24,7 +24,7 @@
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuicoes">Contribuições</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-user-content--licença">Licença</a>
 </p>
 
 ---
@@ -133,7 +133,7 @@ Crie um dispositivo virtual (device manager) no android studio para poder rodar 
 	
 ---
 	
-<h3 id="user-content--licença" align="left"> 📝 Licença </h3>
+<h3 id="-user-content--licença" align="left"> 📝 Licença </h3>
 
 <p align="left"> Este projeto está sobre a licença MIT. </p><br>
 	
